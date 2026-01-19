@@ -1,0 +1,7 @@
+Linux Basics – Beginner Notes
+
+pwd    - shows current directory
+ls     - lists files and folders
+cd     - change directory
+mkdir  - create folder
+rm     - remove file
